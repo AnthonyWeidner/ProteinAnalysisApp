@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PY09XY6girF/7uzZysl/kVXpfM1PRz6H1ZhAOOQdXzP4onxdcjlX23/5ueFgWegsEYdqeGIJQJaJ+BVGgfAdUw==",
+  "dgSpecHash": "X+Vjtk1AbihhdWzJAqmjHYHjyTnj5wSBs8PefUkF+qiztHxJVPfNsQvSlPN0yh7ml6D2TcmbI6dBJFROhJHfSQ==",
   "success": true,
-  "projectFilePath": "/Users/maggiechen/Documents/ProteinAnalysisApp/ProteinAnalysisApp/ProteinAnalysisApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/ProteinAnalysisApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/anthonyweidner/.nuget/packages/python/3.10.6/python.3.10.6.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="python" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="python" Version="3.10.6" />
+  </ItemGroup>
 </Project>

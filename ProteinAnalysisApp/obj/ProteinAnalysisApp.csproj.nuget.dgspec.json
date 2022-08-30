@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/maggiechen/Documents/ProteinAnalysisApp/ProteinAnalysisApp/ProteinAnalysisApp.csproj": {}
+    "/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/ProteinAnalysisApp.csproj": {}
   },
   "projects": {
-    "/Users/maggiechen/Documents/ProteinAnalysisApp/ProteinAnalysisApp/ProteinAnalysisApp.csproj": {
+    "/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/ProteinAnalysisApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/maggiechen/Documents/ProteinAnalysisApp/ProteinAnalysisApp/ProteinAnalysisApp.csproj",
+        "projectUniqueName": "/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/ProteinAnalysisApp.csproj",
         "projectName": "ProteinAnalysisApp",
-        "projectPath": "/Users/maggiechen/Documents/ProteinAnalysisApp/ProteinAnalysisApp/ProteinAnalysisApp.csproj",
-        "packagesPath": "/Users/maggiechen/.nuget/packages/",
-        "outputPath": "/Users/maggiechen/Documents/ProteinAnalysisApp/ProteinAnalysisApp/obj/",
+        "projectPath": "/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/ProteinAnalysisApp.csproj",
+        "packagesPath": "/Users/anthonyweidner/.nuget/packages/",
+        "outputPath": "/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/maggiechen/.nuget/NuGet/NuGet.Config"
+          "/Users/anthonyweidner/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "python": {
+              "target": "Package",
+              "version": "[3.10.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
