@@ -1,0 +1,15 @@
+/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/bin/Debug/net6.0/ProteinAnalysisApp
+/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/bin/Debug/net6.0/ProteinAnalysisApp.deps.json
+/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/bin/Debug/net6.0/ProteinAnalysisApp.runtimeconfig.json
+/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/bin/Debug/net6.0/ProteinAnalysisApp.dll
+/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/bin/Debug/net6.0/ProteinAnalysisApp.pdb
+/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/obj/Debug/net6.0/ProteinAnalysisApp.csproj.AssemblyReference.cache
+/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/obj/Debug/net6.0/ProteinAnalysisApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/obj/Debug/net6.0/ProteinAnalysisApp.AssemblyInfoInputs.cache
+/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/obj/Debug/net6.0/ProteinAnalysisApp.AssemblyInfo.cs
+/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/obj/Debug/net6.0/ProteinAnalysisApp.csproj.CoreCompileInputs.cache
+/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/obj/Debug/net6.0/ProteinAnalysisApp.dll
+/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/obj/Debug/net6.0/refint/ProteinAnalysisApp.dll
+/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/obj/Debug/net6.0/ProteinAnalysisApp.pdb
+/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/obj/Debug/net6.0/ProteinAnalysisApp.genruntimeconfig.cache
+/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/obj/Debug/net6.0/ref/ProteinAnalysisApp.dll
