@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/anthonyweidner/.nuget/packages/": {}
+    "/Users/maggiechen/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/ProteinAnalysisApp.csproj",
+      "projectUniqueName": "/Users/maggiechen/Documents/ProteinAnalysisApp/ProteinAnalysisApp/ProteinAnalysisApp.csproj",
       "projectName": "ProteinAnalysisApp",
-      "projectPath": "/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/ProteinAnalysisApp.csproj",
-      "packagesPath": "/Users/anthonyweidner/.nuget/packages/",
-      "outputPath": "/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/obj/",
+      "projectPath": "/Users/maggiechen/Documents/ProteinAnalysisApp/ProteinAnalysisApp/ProteinAnalysisApp.csproj",
+      "packagesPath": "/Users/maggiechen/.nuget/packages/",
+      "outputPath": "/Users/maggiechen/Documents/ProteinAnalysisApp/ProteinAnalysisApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/anthonyweidner/.nuget/NuGet/NuGet.Config"
+        "/Users/maggiechen/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
