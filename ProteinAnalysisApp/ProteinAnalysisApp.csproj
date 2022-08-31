@@ -9,8 +9,14 @@
 
   <ItemGroup>
     <None Remove="python" />
+    <None Remove="CsvHelper" />
+    <None Remove="ExcelDataReader" />
+    <None Remove="ExcelDataReader.DataSet" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="python" Version="3.10.6" />
+    <PackageReference Include="CsvHelper" Version="28.0.1" />
+    <PackageReference Include="ExcelDataReader" Version="3.6.0" />
+    <PackageReference Include="ExcelDataReader.DataSet" Version="3.6.0" />
   </ItemGroup>
 </Project>

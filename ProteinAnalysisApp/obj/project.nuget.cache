@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "X+Vjtk1AbihhdWzJAqmjHYHjyTnj5wSBs8PefUkF+qiztHxJVPfNsQvSlPN0yh7ml6D2TcmbI6dBJFROhJHfSQ==",
+  "dgSpecHash": "l0fMVFnnnvaiKeDHL+oFCOjwUh2giiyilauGzk6muSCs64XGC7Jd+bUKU+t8xy/MAbVPWA2rNonOsdhP+q7Q5Q==",
   "success": true,
   "projectFilePath": "/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/ProteinAnalysisApp.csproj",
   "expectedPackageFiles": [
+    "/Users/anthonyweidner/.nuget/packages/csvhelper/28.0.1/csvhelper.28.0.1.nupkg.sha512",
+    "/Users/anthonyweidner/.nuget/packages/exceldatareader/3.6.0/exceldatareader.3.6.0.nupkg.sha512",
+    "/Users/anthonyweidner/.nuget/packages/exceldatareader.dataset/3.6.0/exceldatareader.dataset.3.6.0.nupkg.sha512",
     "/Users/anthonyweidner/.nuget/packages/python/3.10.6/python.3.10.6.nupkg.sha512"
   ],
   "logs": []

@@ -13,3 +13,7 @@
 /Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/obj/Debug/net6.0/ProteinAnalysisApp.pdb
 /Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/obj/Debug/net6.0/ProteinAnalysisApp.genruntimeconfig.cache
 /Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/obj/Debug/net6.0/ref/ProteinAnalysisApp.dll
+/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/bin/Debug/net6.0/CsvHelper.dll
+/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/bin/Debug/net6.0/ExcelDataReader.dll
+/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/bin/Debug/net6.0/ExcelDataReader.DataSet.dll
+/Users/AnthonyWeidner/Desktop/ProteinSimplifiApp/Project/ProteinAnalysisApp/ProteinAnalysisApp/obj/Debug/net6.0/ProteinAnalysisApp.csproj.CopyComplete
