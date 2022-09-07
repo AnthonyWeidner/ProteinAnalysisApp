@@ -13,7 +13,7 @@ public class Program
 
         System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
 
-        FileStream stream = File.Open(@"/Users/AnthonyWeidner/Desktop/SampleExcelFile.xlsx", FileMode.Open, FileAccess.Read);
+        FileStream stream = File.Open(@"/Users/AnthonyWeidner/Downloads/SpNlibr_QizhiSwab-7ToF5iul22_quan.xlsx", FileMode.Open, FileAccess.Read);
         IExcelDataReader excelReader = ExcelReaderFactory.CreateOpenXmlReader(stream);
         DataSet result = excelReader.AsDataSet();
 
@@ -21,6 +21,8 @@ public class Program
         {
             int i = 0;
             Boolean exceptionHasOccurred = false;
+
+            // Each while loop reads the first i+1 columns for each line in the Excel file
             while (!exceptionHasOccurred)
             {
 
@@ -31,6 +33,10 @@ public class Program
                     ++i;
                 }
                 catch
+                {
+                    exceptionHasOccurred = true;
+                }
+                if (i == 2)
                 {
                     exceptionHasOccurred = true;
                 }
