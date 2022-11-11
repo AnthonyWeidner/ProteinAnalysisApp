@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{B2A75A82-1B13-4048-8F7B-F39FE83846B9}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ProteinAnalysisApp FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProteinAnalysisApp/Program.cs">
+    <Files>
+      <File FileName="ProteinAnalysisApp/Program.cs" Line="22" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProteinAnalysisApp" expanded="True">
+            <Node name="ProteinAnalysisApp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ProteinAnalysisApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
